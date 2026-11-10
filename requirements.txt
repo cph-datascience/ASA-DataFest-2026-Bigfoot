@@ -1,0 +1,16 @@
+# Data manipulation
+pandas
+numpy
+
+# Geospatial analysis
+geopandas
+
+# Interactive mapping
+folium
+
+# Data visualization
+matplotlib
+
+# Jupyter notebooks
+jupyterlab
+ipykernel

@@ -1,0 +1,35 @@
+# ==========================================
+# ASA DataFest 2026 - Team Bigfoot
+# ==========================================
+
+# Restricted competition datasets
+data/private/
+
+# Generated maps, plots, and analysis outputs
+outputs/
+
+# Local Python virtual environments
+.venv/
+venv/
+env/
+
+# Generated README dependencies
+README_files/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Environment files and API keys
+.env
+.env.*
+!.env.example
